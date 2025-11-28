@@ -1,0 +1,4 @@
+C:\Users\ailin\source\repos\putoserche\x64\Debug\practica0.exe
+C:\Users\ailin\source\repos\proyecto0\x64\Debug\MainCode.exe
+D:\programacion\practicas\practica1\proyecto0\x64\Debug\MainCode.exe
+D:\programacion\practicas\practica3\proyecto0\x64\Debug\MainCode.exe
